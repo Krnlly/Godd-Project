@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-Title = "God'd Notification";
-Text = "God'd Temporarily Down";
+Title = "Krnlly Notification";
+Text = "Krnlly Temporarily Down";
 Duration = 20;
 })
